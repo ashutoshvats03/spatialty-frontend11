@@ -16,7 +16,7 @@
     "fast-xml-parser": "^5.2.5",
     "leaflet": "^1.9.4",
     "leaflet-kml": "^1.0.1",
-    "next": "^15.4.6",
+    "next": "15.4.10",
     "postcss-load-config": "^6.0.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
